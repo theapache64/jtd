@@ -1,6 +1,6 @@
 # jtd 🍵
 
-A java `JAR` package to use [TDLib](https://github.com/tdlib/td)'s java/kotlin version
+A `JAR` package to use [TDLib](https://github.com/tdlib/td)'s java/kotlin version
 
 ## Install 🗡
 

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jtd.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jtd_main_jar</output-path>
+    <root id="archive" name="jtd.main.jar">
+      <element id="module-output" name="jtd.main" />
+    </root>
+  </artifact>
+</component>
